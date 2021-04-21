@@ -1,5 +1,5 @@
 
-
+My Speech Assistant
 
 This is the sample code of my private speech assitant with local "wake-word" on a raspberry 4
 
